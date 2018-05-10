@@ -19,11 +19,11 @@ O projeto foi desenvolvido utilizando o [Spring Boot Framework](https://projects
 
 A maneira mais simples de executar o projeto é usando o [Maven Wrapper](https://github.com/takari/maven-wrapper) que executa os processos de empacotamento e executa o `jar` em um único comando:
 
-``` ./mvnw spring-boot:run ``` 
+``` mvnw spring-boot:run ``` 
 
 ou 
 
-``` ./mvnw.cmd spring-boot:run ```
+``` mvnw.cmd spring-boot:run ```
 
 ### Maven
 
